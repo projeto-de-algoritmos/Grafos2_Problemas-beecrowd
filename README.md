@@ -12,7 +12,13 @@ Problemas do beecrowd (plataforma de exercícios)
 Repositório contendo solução dos exercícios da plataforma *beecrowd* envolvendo Grafos2 (problemas que envolvam Grafos com pesos nas arestas)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<img src="./Imagens/Enunciado_Calango.jpeg" alt="Enunciado_Calango"/>
+<img src="./Imagens/Accepted_Calango.jpeg" alt="Accepted_Calango"/>
+<img src="./Imagens/Enunciado_Desvio_de_Rota.png" alt="Enunciado_Desvio_de_Rota"/>
+<img src="./Imagens/Accepted_Desvio_de_Rota.png" alt="Accepted_Desvio_de_Rota"/>
+<img src="./Imagens/Enunciado_Programacao.png" alt="Enunciado_Programacao"/>
+<img src="./Imagens/Accepted_Programacao.png" alt="Accepted_Programacao"/>
 
 ## Instalação e Uso
 **Linguagem**: xxxxxx<br>
