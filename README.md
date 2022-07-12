@@ -13,15 +13,15 @@ Repositório contendo solução dos exercícios da plataforma *beecrowd* envolve
 
 ## Screenshots
 
-As aventuras do Calango Atômico<br>
+[As aventuras do Calango Atômico](https://www.beecrowd.com.br/judge/pt/problems/view/3119)<br>
 <img src="./Imagens/Enunciado_Calango.jpeg" alt="Enunciado_Calango"/><br>
 <img src="./Imagens/Accepted_Calango.jpeg" alt="Accepted_Calango"/><br>
 
-Desvio de Rota<br>
+[Desvio de Rota](https://www.beecrowd.com.br/judge/pt/problems/view/1123)<br>
 <img src="./Imagens/Enunciado_Desvio_de_Rota.png" alt="Enunciado_Desvio_de_Rota"/><br>
 <img src="./Imagens/Accepted_Desvio_de_Rota.png" alt="Accepted_Desvio_de_Rota"/><br>
 
-Programação de Viagem<br>
+[Programação de Viagem](https://www.beecrowd.com.br/judge/pt/problems/view/2731)<br>
 <img src="./Imagens/Enunciado_Programacao.png" alt="Enunciado_Programacao"/><br>
 <img src="./Imagens/Accepted_Programacao.png" alt="Accepted_Programacao"/><br>
 
