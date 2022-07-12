@@ -1,41 +1,22 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+Problemas do beecrowd (plataforma de exercícios)
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Tema: Grafos2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 180149598  |  Victor Hugo SIqueira Costa |
+| 180029240  |  Wesley Pedrosa dos Santos |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Repositório contendo solução dos exercícios da plataforma *beecrowd* envolvendo Grafos2 (problemas que envolvam Grafos com pesos nas arestas)
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
+## Instalação e Uso
 **Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Bastar acessar o link de cada um dos problemas e copiar/colar depois executar o código respectivo ao problema para conseguir o *accepted*
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
